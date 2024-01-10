@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.top{
+    text-align: center;
+}
+.b{
+   
+    margin:5px;
+    display: grid;
+    max-width: auto;
+    margin: 8px auto;
+background: black;
+color: antiquewhite;
+text-align: center;
+
+
+    
+}
+.bio>h2{
+    font-size: 40px;
+}
+.bio img{
+padding-left:25rem;
+max-width: 100rem;
+}
+.bio{
+    line-height: 40px;
+    font-size: 20px;
+    margin: 2rem auto;
+    padding-right:3rem;
+    max-width: 50rem;
+    
+}
